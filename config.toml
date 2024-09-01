@@ -1,4 +1,4 @@
 baseURL = "https://wasabina67.github.io/hugo-mainroad-example/"
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = "en-us"
+title = "My New Hugo Site"
 theme = "mainroad"
