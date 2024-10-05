@@ -5,3 +5,11 @@ theme = "mainroad"
 
 defaultContentLanguage = "ja"
 publishDir = "docs"
+
+paginate = "20"
+googleAnalytics = "G-xxxxxxxxxx"
+
+[Author]
+  name = "name"
+  bio = "bio"
+  avatar = "https://example.com/"
